@@ -14,6 +14,7 @@ public class Main {
 		System.out.println("THIS APP SHOWS SALES DATA");
 		System.out.println("Woot! It pushed!");
 		System.out.println("samir");
+		System.out.println("salam");
 	}
 	
 }
